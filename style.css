@@ -98,3 +98,11 @@ p {
 .links:hover {
     background-color: gray;
 }
+.article:hover{
+    color:purple;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+
